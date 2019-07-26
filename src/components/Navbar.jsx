@@ -12,14 +12,27 @@ class Navbar extends React.Component{
         </button> */ }
 
                 <div className = "container">
-                    <div className="collapse navbar-collapse" id="navbarsExample03">
-                        <ul className="navbar-nav ml-auto">
+                    <div className="collapse navbar-collapse" id="navbarsExample">
+                        <ul className="navbar-nav mx-auto">
                             {/* as opposed to mr-auto */}
-                            <li className="nav-item active">
-                                <Link className="nav-link" to="/">Home <span className="sr-only">(current)</span></Link>
+                            { /* <li className="nav-item active"> */ }
+                            <li className="nav-item">
+                                <Link className="nav-link" to="/intro">Introduction</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/abouts">About</Link>
+                                <Link className="nav-link" to="/education">Education</Link>
+                            </li>
+                            <li className="nav-item">
+                                <Link className="nav-link" to="/experience">Experience</Link>
+                            </li>
+                            <li className="nav-item">
+                                <Link className="nav-link" to="/projects">Projects</Link>
+                            </li>
+                            <li className="nav-item">
+                                <Link className="nav-link" to="/activities">Activities</Link>
+                            </li>
+                            <li className="nav-item">
+                                <Link className="nav-link" to="/skills">Skills</Link>
                             </li>
                         </ul>
                     </div>
