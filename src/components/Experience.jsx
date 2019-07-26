@@ -7,7 +7,7 @@ class Experience extends React.Component{
         return(
             <div className = "container">
                 <header>
-                    <h1> Insert Zoho Corporation logo </h1>
+                    <h1 id = "experience"> Insert Zoho Corporation logo </h1>
                 </header>
                 <p>Insert internship details?</p>
             </div>

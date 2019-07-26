@@ -7,7 +7,7 @@ class Activities extends React.Component{
         return(
             <div className = "container">
                 <header>
-                    <h1> Activities Component </h1>
+                    <h1 id = "activities"> Activities Component </h1>
                 </header>
             </div>
             

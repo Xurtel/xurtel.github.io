@@ -7,7 +7,7 @@ class Education extends React.Component{
         return(
             <div className = "container">
                 <header>
-                    <h1> Insert UCSC logo </h1>
+                    <h1 id = "education"> Insert UCSC logo </h1>
                 </header>
                 <p>(IN PROGRESS) B.S. in Computer Science</p>
             </div>

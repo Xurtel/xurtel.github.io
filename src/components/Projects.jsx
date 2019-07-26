@@ -7,7 +7,7 @@ class Projects extends React.Component{
         return(
             <div className = "container">
                 <header>
-                    <h1> Projects Component </h1>
+                    <h1 id = "projects"> Projects Component </h1>
                 </header>
                 <ul>
                     <li>Resistor</li>

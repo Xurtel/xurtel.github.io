@@ -2,6 +2,8 @@ import React from 'react';
 import {Link} from 'react-router-dom';
 import './Navbar.css';
 
+// TODO: confirm navigation to a specific part of the page through <a href></a>
+
 class Navbar extends React.Component{
     render(){
         return(
@@ -17,22 +19,28 @@ class Navbar extends React.Component{
                             {/* as opposed to mr-auto */}
                             { /* <li className="nav-item active"> */ }
                             <li className="nav-item">
-                                <Link className="nav-link" to="/intro">Introduction</Link>
+                                { /* <Link className="nav-link" to="/intro">Introduction</Link> */}
+                                <a href = "#intro">Introduction</a>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/education">Education</Link>
+                                { /*  <Link className="nav-link" to="/education">Education</Link> */ }
+                                <a href = "#education">Education</a>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/experience">Experience</Link>
+                                { /* <Link className="nav-link" to="/experience">Experience</Link>  */}
+                                <a href = "#experience">Experience</a>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/projects">Projects</Link>
+                                { /* <Link className="nav-link" to="/projects">Projects</Link>*/ }
+                                <a href = "#projects">Projects</a>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/activities">Activities</Link>
+                                { /* <Link className="nav-link" to="/activities">Activities</Link>*/ }
+                                <a href = "#activities">Activities</a>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/skills">Skills</Link>
+                                { /* <Link className="nav-link" to="/skills">Skills</Link> */}
+                                <a href = "#skills">Skills</a>
                             </li>
                         </ul>
                     </div>
