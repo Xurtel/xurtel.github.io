@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-import myPicture from '../images/my-picture.png';
+
 
 class Intro extends React.Component{
     render(){
@@ -8,14 +8,12 @@ class Intro extends React.Component{
             <div className = "container">
 
                 <h1 id = "intro">Matthew Ngor</h1>
-                <p>Computer Science Undergraduate</p>
-                <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
-                <Link to ="/resume"> Route to resume </Link> 
+                <p id = "occupation">Computer Science Undergraduate</p>
                 
-                <img src = {myPicture} alt = "me"/>
+                <Link to ="/resume"> Route to resume </Link> 
+                <Link to ="/linkedin"> Route to LinkedIn </Link> 
+                <Link to ="/github"> Route to Github </Link> 
+                
 
             </div>
         );
