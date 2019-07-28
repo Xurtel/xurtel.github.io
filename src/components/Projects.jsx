@@ -12,7 +12,7 @@ class Projects extends React.Component{
                 <ul>
                     <li>Resistor</li>
                     <li>Bagito</li>
-                    <li>Asteroids/Pong</li>
+                    <li>React applications</li>
                 </ul>
             </div>
             
