@@ -12,9 +12,18 @@ class Education extends React.Component{
                     <h1 id = "education">Education</h1>
                 </header>
 
-                <img src = {ucscLogo} alt = "University of California, Santa Cruz"/>
+                <div class = "education-block">
+                    <img src = {ucscLogo} alt = "University of California, Santa Cruz"/>
 
-                <p>(IN PROGRESS) B.S. in Computer Science</p>
+                    <h3>University of California, Santa Cruz</h3>
+                    <span class="education-date">Sept 2017 - Present</span>
+                    <h4>Bachelor of Science in Computer Science</h4>
+                    <h5>Santa Cruz, California</h5>
+                    
+                    <p>Expected graduation date: June 2021.</p>
+                </div>
+
+                
             </div>
             
         );

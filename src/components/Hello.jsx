@@ -9,13 +9,13 @@ class Hello extends React.Component{
         return(
             <div className = "container">
 
-                <img src = {myPicture} alt = "me"/>
+                <img src = {myPicture} alt = "me" id = "photo"/>
                 <header>
-                <h1>
-                    Hello!
+                <h1 id = "hello">
+                    Hello there
                 </h1>
                 </header>
-                <p>
+                <p id = "paragraph">
                     My name is Matthew! I am currently a junior studying Computer Science at the University of California, Santa Cruz. 
                     I got interested in software engineering and web development because of how much 
                         positive change and great convenience software and technology brings into our lives. 

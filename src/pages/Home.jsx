@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './Home.css';
+
 import Navbar from '../components/Navbar.jsx';
 import Intro from '../components/Intro.jsx';
 import Hello from '../components/Hello.jsx';
@@ -10,6 +12,7 @@ import Activities from '../components/Activities.jsx';
 import Skills from '../components/Skills.jsx';
 
 import Footer from '../components/Footer.jsx';
+
 
 
 class Home extends React.Component{

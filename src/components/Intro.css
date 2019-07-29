@@ -1,0 +1,16 @@
+.intro{
+    text-align: center;
+    position: relative;
+
+    height: 100vh;
+    min-height: 500px;
+    max-height: 1080px;
+    background-image: url("../images/city-at-night.jpg");
+    background-size: cover;
+    padding: 15px;
+    overflow: hidden;
+
+    color: #fff; 
+    font-weight: 700;
+    font-size: 5em;
+}

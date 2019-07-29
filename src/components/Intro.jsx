@@ -1,13 +1,15 @@
 import React from 'react';
 
+import './Intro.css';
+
 import resume from '../images/resume.pdf';
 
 class Intro extends React.Component{
     render(){
         return(
-            <div className = "container">
+            <div className = "intro">
 
-                <h1 id = "intro">Matthew Ngor</h1>
+                <h1 id = "name">Matthew Ngor</h1>
                 <p id = "occupation">Computer Science Undergraduate</p>
                 
                 { /* Using anchor tag (HTML) instead of Link (React Router) */ }          
