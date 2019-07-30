@@ -7,7 +7,7 @@ import myPicture from '../images/my-picture.png';
 class Hello extends React.Component{
     render(){
         return(
-            <div id = "about">
+            <div className = "about" id = "about">
                 <div className = "container">
                     <img src = {myPicture} alt = "Matthew Ngor" id = "photo"/> 
                     <h1 id = "hello">

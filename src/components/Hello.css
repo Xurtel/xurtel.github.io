@@ -1,4 +1,4 @@
-#about {
+.about{
     text-align: center;
     padding: 40px 15px;
     border-bottom: 1px solid #dcd9d9;
@@ -16,7 +16,8 @@
 #hello{
     margin-top: 15px;
 }
-p{
+
+.about p{
     text-align: left;
     position: relative;
     display: block;
@@ -30,7 +31,7 @@ p{
     color: #74808a;
 }
 
-#quote {
+#quote{
     text-align: center;
     font-style: italic;
 }

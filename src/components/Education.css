@@ -1,13 +1,15 @@
+.education{
+    padding: 20px 15px 20px 15px;
+    border-bottom: 1px solid #dcd9d9;
+    background: #f2f2f5;
+}
+
 .education-block{
     max-width: 700px;
     margin: 0 auto 30px auto;
     padding: 15px;
     border: 1px solid #dcd9d9;
     text-align: left;
-}
-
-#education{
-    
 }
 
 img{
@@ -49,4 +51,10 @@ h3 {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+}
+
+.education-block p{
+    margin: 0;
+    color: #74808a;
+    font-size: 1em;
 }
