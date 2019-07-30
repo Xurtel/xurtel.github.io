@@ -13,7 +13,7 @@ import Skills from '../components/Skills.jsx';
 
 import Footer from '../components/Footer.jsx';
 
-
+//import './fonts/Lato-Regular.ttf';
 
 class Home extends React.Component{
     render(){

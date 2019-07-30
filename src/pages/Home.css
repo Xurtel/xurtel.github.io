@@ -5,9 +5,17 @@
     src: url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 }
 
-
+/* @font-face{
+  font-family: 'Lato', sans-serif;
+  src: local('Lato'), url(./fonts/Lato-Regular.ttf) format('truetype');
+}
+*/
 
 h1{
     text-align: center;
     text-decoration-line: underline;
+}
+
+* {
+    font-family: Lato;
 }
