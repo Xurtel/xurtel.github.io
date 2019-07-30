@@ -27,9 +27,9 @@ class Home extends React.Component{
                 <Experience />
                 <Projects />
 
+                <Skills />
                 <Activities />
 
-                <Skills />
 
                 <Footer />
             </div>

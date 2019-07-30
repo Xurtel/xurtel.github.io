@@ -1,0 +1,27 @@
+.experience{
+    padding: 30px 0px;
+    text-align: center;
+    border-bottom: 1px solid #dcd9d9;
+    
+}
+
+.experience ul{
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 95%;
+}
+
+.experience li{
+    display: inline-block;
+    margin: 0px;
+    padding: 20px 30px;
+    list-style: none;
+    
+}
+
+.experience img{
+    vertical-align: middle;
+    border: 0;
+    text-align: center;
+}

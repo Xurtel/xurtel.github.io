@@ -35,12 +35,12 @@ class Navbar extends React.Component{
                                 <a href = "#projects">Projects</a>
                             </li>
                             <li className="nav-item">
-                                { /* <Link className="nav-link" to="/activities">Activities</Link>*/ }
-                                <a href = "#activities">Activities</a>
-                            </li>
-                            <li className="nav-item">
                                 { /* <Link className="nav-link" to="/skills">Skills</Link> */}
                                 <a href = "#skills">Skills</a>
+                            </li>
+                            <li className="nav-item">
+                                { /* <Link className="nav-link" to="/activities">Activities</Link>*/ }
+                                <a href = "#activities">Activities</a>
                             </li>
                         </ul>
                     </div>

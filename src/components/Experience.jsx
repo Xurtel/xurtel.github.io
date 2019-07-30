@@ -3,18 +3,24 @@ import React from 'react';
 import './Experience.css';
 
 import zohoLogo from '../images/zoho-logo.png';
+import slusdLogo from '../images/slusd-logo.png';
 
 class Experience extends React.Component{
     render(){
         return(
-            <div className = "container">
-                <header>
-                    <h1 id = "experience">Experience</h1>
-                </header>
+            <div className = "experience" id = "experience">
+                <div className = "container">
+                    <h1 id = "experience-title">Experience</h1>
 
-                <img src = {zohoLogo} alt = "Zoho Corporation"/>
-
-                <p>Insert internship details?</p>
+                    <ul>
+                        <li>
+                            <img src = {zohoLogo} alt = "Zoho Corporation" id = "zoho"/>
+                        </li>
+                        <li>
+                            <img src = {slusdLogo} alt = "San Leandro Unified School District" id = "slusd"/>
+                        </li>
+                    </ul>
+                </div>
             </div>
             
         );
