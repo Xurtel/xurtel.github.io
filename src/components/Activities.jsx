@@ -9,6 +9,8 @@ class Activities extends React.Component{
                 <header>
                     <h1 id = "activities"> Activities Component </h1>
                 </header>
+
+                
             </div>
             
         );

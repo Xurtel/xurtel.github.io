@@ -1,17 +1,37 @@
+#about {
+    text-align: center;
+    padding: 40px 15px;
+    border-bottom: 1px solid #dcd9d9;
+}
+
+
 #photo{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 20%;
-    height: 20%;
+    width: 22%;
+    height: 22%;
 }
 
-#hello, #quote{
-    text-align:center;
+#hello{
+    margin-top: 15px;
 }
-
-
-#paragraph{
+p{
     text-align: left;
+    position: relative;
+    display: block;
+    min-height: 1px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 0 0 30px;
+    font-size: 1.1em;
+    font-weight: 300;
+
+    color: #74808a;
+}
+
+#quote {
+    text-align: center;
+    font-style: italic;
 }
 
