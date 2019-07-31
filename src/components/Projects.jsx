@@ -11,7 +11,8 @@ class Projects extends React.Component{
                     <ul>
                         <li>Resistor</li>
                         <li>Bagito</li>
-                        <li>React applications</li>
+                        <li>Zoho project</li>
+                        <li>React app</li>
                     </ul>
                 </div>
             </div>
