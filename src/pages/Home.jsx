@@ -18,7 +18,7 @@ import Footer from '../components/Footer.jsx';
 class Home extends React.Component{
     render(){
         return(
-            <div>
+            <div className = "home" id = "home">
                 <Navbar />
                 <Intro />
                 <Hello />
