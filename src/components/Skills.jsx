@@ -24,6 +24,7 @@ class Skills extends React.Component{
                         <li>CRM</li>
                         <li>Unix</li>
                         <li>Prototyping</li>
+                        <li>Adobe Creative Cloud</li>
                         <li>Communication</li>
                         <li>Empathy</li>
                         <li>Collaboration</li>

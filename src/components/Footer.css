@@ -1,9 +1,48 @@
-.footer{
+/*.footer{
     position: absolute;
     bottom: 50;
     width: 100%;
     height: 60px;
     line-height: 60px;
-    background-color: #333;
+    background-color: #343a40;
     display: block;
+}*/
+
+footer{
+    padding: 50px 0;
+    background-color: #343a40;
+}
+
+.copyright{
+    padding-top: 20px;
+}
+
+.copyright p{
+    margin: 0;
+    color: #ccced3;
+}
+
+.social{
+    text-align: right;
+}
+
+.social ul{
+    margin: 5px 0 0 0;
+    padding: 0;
+}
+
+.social li{
+    display: inline-block;
+    font-size: 1.25em;
+    list-style: none;
+}
+
+.social a{
+    display: block;
+    color: #ccced3;
+    padding: 10px;
+}
+
+.social a:hover{
+    color: #fff;
 }
