@@ -26,7 +26,7 @@ class Footer extends React.Component{
                             <ul>
                                 <li>
                                     <a id = "github" rel="noopener noreferrer"
-                                        href="https://linkedin.com/in/matthewngor" target="_blank">
+                                        href="https://github.com/Xurtel" target="_blank">
                                         <i className = "fa fa-github" aria-hidden = "true">{githubIcon}</i>
                                     </a>
                                 </li>
