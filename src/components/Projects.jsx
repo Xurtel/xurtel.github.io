@@ -33,9 +33,11 @@ class Projects extends React.Component{
                                     I implemented the QR code scanner functionality by using the ZXing library in Java. 
                                     At the end of the Spring 2019 quarter, my team and I presented our product to the CEO and other
                                         organizations. 
-                                    
 
                                 </p>
+                                <a href = "https://github.com/StevenSuh/Bagito" target = "_blank" rel="noopener noreferrer">
+                                    View Project
+                                </a>
                             </div>
                         </div>
 
@@ -60,6 +62,10 @@ class Projects extends React.Component{
                                     In the end, we learned a lot and were able to demo our functional application alongside 90 other projects :)
                                     
                                 </p>
+                                <a href = "https://github.com/Xurtel/resistor-calculator" target = "_blank" rel="noopener noreferrer">
+                                    View Project
+                                </a>
+
                             </div>
                         </div>
 
