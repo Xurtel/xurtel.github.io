@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b010761e5e0dd2b85cb7b77f4e64ebed",
+    "revision": "5bc090d8427955e70d2257bf2d13331b",
     "url": "/index.html"
   },
   {
-    "revision": "7b8eca23b84a67186737",
-    "url": "/static/css/main.033b8f4e.chunk.css"
+    "revision": "950fd7da18981450cd28",
+    "url": "/static/css/main.8bd85903.chunk.css"
   },
   {
-    "revision": "26bb6eacf2394f2c8f34",
-    "url": "/static/js/2.7f76cfab.chunk.js"
+    "revision": "a8ace9e9f5bf5a122e18",
+    "url": "/static/js/2.64706b49.chunk.js"
   },
   {
-    "revision": "7b8eca23b84a67186737",
-    "url": "/static/js/main.c51b4373.chunk.js"
+    "revision": "950fd7da18981450cd28",
+    "url": "/static/js/main.c026dc93.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -44,16 +44,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/my-picture.9ae71404.png"
   },
   {
+    "revision": "bbed58730a63490203737920acb6aec0",
+    "url": "/static/media/new_resume.bbed5873.pdf"
+  },
+  {
     "revision": "a4136f623254edc8129ebf3921a7104d",
     "url": "/static/media/resistors.a4136f62.jpg"
   },
   {
-    "revision": "353c1d9409847442299fc66dbe6147fa",
-    "url": "/static/media/resume.353c1d94.pdf"
-  },
-  {
     "revision": "5872a0241c8b0fd604dc1eda53200199",
     "url": "/static/media/slusd-logo.5872a024.png"
+  },
+  {
+    "revision": "821bdd3929a3e62a8d60cb6ef17be274",
+    "url": "/static/media/uco_logo.821bdd39.png"
   },
   {
     "revision": "3850e3ffe44e520a9b1bc709165226be",
