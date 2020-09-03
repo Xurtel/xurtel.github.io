@@ -2,7 +2,7 @@ import React from 'react';
 
 import './Intro.css';
 
-import resume from '../images/resume.pdf';
+import resume from '../images/new_resume.pdf';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFileDownload } from '@fortawesome/free-solid-svg-icons';

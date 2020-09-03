@@ -4,6 +4,7 @@ import './Experience.css';
 
 import zohoLogo from '../images/zoho-logo.png';
 import slusdLogo from '../images/slusd-logo.png';
+import ucoLogo from '../images/uco_logo.png';
 
 class Experience extends React.Component{
     render(){
@@ -15,6 +16,9 @@ class Experience extends React.Component{
                     <ul>
                         <li>
                             <img src = {zohoLogo} alt = "Zoho Corporation" id = "zoho"/>
+                        </li>
+                        <li>
+                            <img src = {ucoLogo} alt = "University of California Observatories" id = "uco"/>
                         </li>
                         <li>
                             <img src = {slusdLogo} alt = "San Leandro Unified School District" id = "slusd"/>
