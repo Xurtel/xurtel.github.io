@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66274fa4cbf0e91b0922acbdfc73a835",
+    "revision": "227a6f53125b23d974af0fd5f5fc5a78",
     "url": "/index.html"
   },
   {
-    "revision": "af75f1f37415fcde5e9c",
+    "revision": "fe9baa087e1f9aaa488b",
     "url": "/static/css/main.8bd85903.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.061aa4d8.chunk.js"
   },
   {
-    "revision": "af75f1f37415fcde5e9c",
-    "url": "/static/js/main.6688397f.chunk.js"
+    "revision": "fe9baa087e1f9aaa488b",
+    "url": "/static/js/main.ac660122.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -45,7 +45,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "bbed58730a63490203737920acb6aec0",
-    "url": "/static/media/new_resume.bbed5873.pdf"
+    "url": "/static/media/new-resume.bbed5873.pdf"
   },
   {
     "revision": "a4136f623254edc8129ebf3921a7104d",
@@ -57,7 +57,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "821bdd3929a3e62a8d60cb6ef17be274",
-    "url": "/static/media/uco_logo.821bdd39.png"
+    "url": "/static/media/uco-logo.821bdd39.png"
   },
   {
     "revision": "3850e3ffe44e520a9b1bc709165226be",
