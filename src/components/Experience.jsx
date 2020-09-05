@@ -4,7 +4,7 @@ import './Experience.css';
 
 import zohoLogo from '../images/zoho-logo.png';
 import slusdLogo from '../images/slusd-logo.png';
-import ucoLogo from '../images/uco_logo.png';
+import ucoLogo from '../images/uco-logo.png';
 
 class Experience extends React.Component{
     render(){
