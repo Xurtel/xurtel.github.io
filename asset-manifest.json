@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.f398d9c9.chunk.css",
-    "main.js": "./static/js/main.5cc98dd2.chunk.js",
-    "main.js.map": "./static/js/main.5cc98dd2.chunk.js.map",
+    "main.js": "./static/js/main.1da450f5.chunk.js",
+    "main.js.map": "./static/js/main.1da450f5.chunk.js.map",
     "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
     "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
     "static/js/2.52f4494c.chunk.js": "./static/js/2.52f4494c.chunk.js",
     "static/js/2.52f4494c.chunk.js.map": "./static/js/2.52f4494c.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.233e87aa7f543357084abf7f08e2728d.js": "./precache-manifest.233e87aa7f543357084abf7f08e2728d.js",
+    "precache-manifest.56a73283a01813f502b845eacd415c8f.js": "./precache-manifest.56a73283a01813f502b845eacd415c8f.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.f398d9c9.chunk.css.map": "./static/css/main.f398d9c9.chunk.css.map",
     "static/media/bagito-bag.png": "./static/media/bagito-bag.fcc354d9.png",
