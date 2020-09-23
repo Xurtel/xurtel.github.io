@@ -16,14 +16,14 @@ class Skills extends React.Component{
                         <li>Node.js</li>
                         <li>Git</li>
                         <li>React</li>
-                        <li>Android</li>
-                        <li>Processing</li>
                         <li>Algorithms</li>
                         <li>Data Structures</li>
                         <li>AWS Lambda</li>
                         <li>CRM</li>
                         <li>Unix</li>
                         <li>Prototyping</li>
+                        <li>Wordpress</li>
+                        <li>Drupal</li>
                         <li>Adobe Creative Cloud</li>
                         <li>Communication</li>
                         <li>Empathy</li>
