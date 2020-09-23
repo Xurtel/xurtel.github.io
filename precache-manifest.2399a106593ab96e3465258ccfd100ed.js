@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f28ccd1b319627feed1906c3625de53",
+    "revision": "abc543047ff6dd8345f3a5652e1e5914",
     "url": "./index.html"
   },
   {
-    "revision": "6150280111d57b32b497",
+    "revision": "af1bb766b7496ee923a6",
     "url": "./static/css/main.f398d9c9.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.52f4494c.chunk.js"
   },
   {
-    "revision": "6150280111d57b32b497",
-    "url": "./static/js/main.930242d8.chunk.js"
+    "revision": "af1bb766b7496ee923a6",
+    "url": "./static/js/main.ea205e7c.chunk.js"
   },
   {
     "revision": "8c97409f0ee389fe75da",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/slusd-logo.5872a024.png"
   },
   {
-    "revision": "2de86eb00a975478768208b654d55fa6",
-    "url": "./static/media/uco-logo.v2.2de86eb0.png"
+    "revision": "14f5d6f8dbe754b3f646d2e59fdbd197",
+    "url": "./static/media/uco-logo.14f5d6f8.jpg"
   },
   {
     "revision": "3850e3ffe44e520a9b1bc709165226be",
