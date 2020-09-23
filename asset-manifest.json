@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.f398d9c9.chunk.css",
-    "main.js": "./static/js/main.0dcda6ac.chunk.js",
-    "main.js.map": "./static/js/main.0dcda6ac.chunk.js.map",
+    "main.js": "./static/js/main.53938c19.chunk.js",
+    "main.js.map": "./static/js/main.53938c19.chunk.js.map",
     "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
     "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
     "static/js/2.52f4494c.chunk.js": "./static/js/2.52f4494c.chunk.js",
     "static/js/2.52f4494c.chunk.js.map": "./static/js/2.52f4494c.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.e9b84786ad610f721284d363ad003a4c.js": "./precache-manifest.e9b84786ad610f721284d363ad003a4c.js",
+    "precache-manifest.ab331f695ba8b7e1922c8bc57fcf1e25.js": "./precache-manifest.ab331f695ba8b7e1922c8bc57fcf1e25.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.f398d9c9.chunk.css.map": "./static/css/main.f398d9c9.chunk.css.map",
     "static/media/bagito-bag.png": "./static/media/bagito-bag.fcc354d9.png",
@@ -20,7 +20,7 @@
     "static/media/new-resume.pdf": "./static/media/new-resume.bbed5873.pdf",
     "static/media/resistors.jpg": "./static/media/resistors.a4136f62.jpg",
     "static/media/slusd-logo.png": "./static/media/slusd-logo.5872a024.png",
-    "static/media/uco-logo.png": "./static/media/uco-logo.821bdd39.png",
+    "static/media/uco-logo.v1.png": "./static/media/uco-logo.v1.3c02eeb9.png",
     "static/media/ucsc-logo.png": "./static/media/ucsc-logo.3850e3ff.png",
     "static/media/zoho-logo.png": "./static/media/zoho-logo.455839b7.png"
   }
