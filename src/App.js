@@ -12,11 +12,8 @@ import Home from './pages/Home.jsx';
   render(){
     return(
       <HashRouter basename={window.location.pathname || ''}>
-    {/* <Switch> */}
-        <div>
-          <Route exact path="/" component={Home} />
-          {/*<Route path = "/" component={Home} exact/>*/}
-        </div>
+        <Route exact path="/" component={Home} />
+        {/*<Route path = "/" component={Home} exact/>*/}
       </HashRouter>
     );
   }
