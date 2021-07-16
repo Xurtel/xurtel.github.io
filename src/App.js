@@ -14,8 +14,10 @@ import Home from './pages/Home.jsx';
       <Router>
     {/* <Switch> */}
         <div>
-          <Route path = "/" component={Home} exact/>
-      {/* <Route component = {Error}/> */}
+          <HashRouter basename={window.location.pathname || ''}>
+            <Route exact path="/" component={Home} />
+          </HashRouter>
+          {/*<Route path = "/" component={Home} exact/>*/}
         </div>
       </Router>
     );
