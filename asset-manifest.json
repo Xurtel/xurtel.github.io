@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.efc0e23a.chunk.css",
-    "main.js": "/static/js/main.7f52c22a.chunk.js",
-    "main.js.map": "/static/js/main.7f52c22a.chunk.js.map",
+    "main.js": "/static/js/main.6741887a.chunk.js",
+    "main.js.map": "/static/js/main.6741887a.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.52f4494c.chunk.js": "/static/js/2.52f4494c.chunk.js",
     "static/js/2.52f4494c.chunk.js.map": "/static/js/2.52f4494c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9cc10febe1376b3050072ced139ca283.js": "/precache-manifest.9cc10febe1376b3050072ced139ca283.js",
+    "precache-manifest.2f69cbe4a05086de1aa9ce666baf9f23.js": "/precache-manifest.2f69cbe4a05086de1aa9ce666baf9f23.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.efc0e23a.chunk.css.map": "/static/css/main.efc0e23a.chunk.css.map",
     "static/media/bagito-bag.png": "/static/media/bagito-bag.fcc354d9.png",
