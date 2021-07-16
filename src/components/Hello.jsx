@@ -27,7 +27,9 @@ class Hello extends React.Component{
                         <span role = "img" aria-label = "cheerful">😁</span>
                     </p>
                     <span><br></br></span>
-                 <p id = "quote">“If you want to go fast, go alone. If you want to go far, go together.” </p>
+                 <p id = "quote">“If everyone is moving forward together, then success takes care of itself.” 
+                    <br> Henry Ford</br> 
+                 </p>
                     
                 </div>
             </div>
