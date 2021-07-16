@@ -1,8 +1,8 @@
 {
-  "name": "v1_matthewngor",
+  "name": "xurtel.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://xurtel.github.io",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-brands-svg-icons": "^5.14.0",
