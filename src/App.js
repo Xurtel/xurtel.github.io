@@ -11,15 +11,13 @@ import Home from './pages/Home.jsx';
  class App extends React.Component{
   render(){
     return(
-      <Router>
+      <HashRouter basename={window.location.pathname || ''}>
     {/* <Switch> */}
         <div>
-          <HashRouter basename={window.location.pathname || ''}>
-            <Route exact path="/" component={Home} />
-          </HashRouter>
+          <Route exact path="/" component={Home} />
           {/*<Route path = "/" component={Home} exact/>*/}
         </div>
-      </Router>
+      </HashRouter>
     );
   }
 }
