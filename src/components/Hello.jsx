@@ -14,7 +14,7 @@ class Hello extends React.Component{
                         HELLO THERE
                     </h1>
                     <p id = "paragraph">
-                        My name is Matthew! I am currently a junior studying Computer Science at the University of California, Santa Cruz. 
+                        My name is Matthew! I just graduated in Computer Science B.S. with Honors from the University of California, Santa Cruz.  
                         I got interested in software engineering and web development because of the impact
                            software and technology brings into our lives. 
 
@@ -28,7 +28,7 @@ class Hello extends React.Component{
                     </p>
                     <span>{<br/>}</span>
                  <p id = "quote">“If everyone is moving forward together, then success takes care of itself.” 
-                    {<br/>}Henry Ford
+                    {<br/>}- Henry Ford
                  </p>
                     
                 </div>

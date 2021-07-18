@@ -19,7 +19,7 @@ class Intro extends React.Component{
         return(
             <div className = "intro">
                 <h1 id = "name">Matthew Ngor</h1>
-                <h2 id = "occupation">CS Undergraduate</h2>
+                <h2 id = "occupation">CS New Graduate</h2>
                 <h4 id = "links">
                     { /* Using anchor tag (HTML) instead of Link (React Router) */ }          
                     <a id = "resume" rel="noopener noreferrer" className = "btn-rounded" role = "button"
