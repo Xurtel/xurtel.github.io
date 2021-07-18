@@ -26,9 +26,9 @@ class Hello extends React.Component{
                             hiking, travelling, or simply hanging out with friends and family&nbsp;
                         <span role = "img" aria-label = "cheerful">😁</span>
                     </p>
-                    <span><br></br></span>
+                    <span>{<br/>}</span>
                  <p id = "quote">“If everyone is moving forward together, then success takes care of itself.” 
-                    <br> Henry Ford</br> 
+                    {<br/>}Henry Ford
                  </p>
                     
                 </div>
